@@ -49,8 +49,8 @@ main{
 }
 
 #demo{
-    
-    font-size: 4vh;
+    font-family: "FangSong",微软雅黑;
+    font-size: 5vh;
     color: rgb(30,35,41);
 }
 
